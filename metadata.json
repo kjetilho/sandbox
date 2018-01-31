@@ -1,0 +1,18 @@
+{
+    "name": "minimal",
+    "version": "1.0",
+    "author": "Wile E Coyote <wile@example.com>",
+    "license": "GPL-3.0+",
+    "source": "https://example/minimal.git",
+    "operatingsystem_support": [
+        {
+            "operatingsystem": "Ubuntu",
+            "operatingsystemrelease": [ "16.04" ]
+        },
+        {
+            "operatingsystem": "windows",
+            "operatingsystemrelease": [ "10" ]
+        }
+    ],
+    "dependencies": []
+}
